@@ -1,16 +1,5 @@
 ## Hi there 👋
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=28&desc=I%20am%20Jack20%F0%9F%98%81&descAlign=50&descSize=30&descAlignY=56&animation=twinkling" />
-</p>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Jacksx20/Jacksx20/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
 <!--
 **yyyyjjjlll/yyyyjjjlll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +16,44 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=yyyyjjjlll&show_icons=true&theme=transparent)
 
+# 👋 Hi, I'm yyyyjjjlll
 
+🎯 前端开发者 | 热爱编程与技术
+
+---
+
+## 🛠️ 技术栈
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub 统计
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yyyyjjjlll&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyyyjjjlll&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌱 正在学习
+
+- 深入学习前端框架
+- 算法与数据结构
+
+---
+
+## 📫 联系我
+
+- 📧 Email: 870595872@qq.com
+
+---
 
 
